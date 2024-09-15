@@ -4,7 +4,7 @@
   "health": 5000,
   "speed": 1.2,
   "damage": {
-    "laser": 70000,
+    "laser": 700,
     "cannon": 600
   },
   "weaponry": {
