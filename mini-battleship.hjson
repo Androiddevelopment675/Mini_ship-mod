@@ -1,0 +1,29 @@
+{
+  "name": "Mini-Battleship",
+  "description": "A small but powerful mini battleship with high damage.",
+  "health": 5000,
+  "speed": 1.2,
+  "damage": {
+    "laser": 400,
+    "cannon": 600
+  },
+  "weaponry": {
+    "primary": {
+      "type": "laser",
+      "rateOfFire": 2.5,
+      "damage": 400,
+      "range": 150
+    },
+    "secondary": {
+      "type": "cannon",
+      "rateOfFire": 1.0,
+      "damage": 600,
+      "range": 120
+    }
+  },
+  "size": {
+    "width": 2,
+    "height": 2
+  },
+  "armor": "heavy"
+}
