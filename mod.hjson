@@ -1,0 +1,29 @@
+name: "tes-mod" 
+repo: "pengembangan_android675/tes-mod" 
+minGameVersion: 145 
+version: "v1.0MK" 
+
+displayName: "tes-mod: A New Era" 
+author:  
+
+''' 
+[[]scarlet]king, [[]cyan]AndroidDev, [[]lime]Jo 
+[[]gray]Stalgrad, [[]pink]ModMaster 
+''' 
+
+subtitle: "Created for a new age" 
+description: 
+
+''' 
+
+WARNING: Mod is currently under development, some features might be unstable.  
+but it's still exciting! 
+
+Available in languages: 
+Indonesian 
+English 
+Russian 
+----------------------------- 
+
+dependencies: [] 
+hideBrowser: false
