@@ -1,6 +1,6 @@
 name: "tes-mod" 
-repo: "pengembangan_android675/tes-mod" 
-minGameVersion: 145 
+repo: "Androiddevelopment675/Mini_ship-mod" 
+minGameVersion: 136
 version: "v1.0MK" 
 
 displayName: "tes-mod: A New Era" 
@@ -19,10 +19,6 @@ description:
 WARNING: Mod is currently under development, some features might be unstable.  
 but it's still exciting! 
 
-Available in languages: 
-Indonesian 
-English 
-Russian 
 ----------------------------- 
 
 dependencies: [] 
