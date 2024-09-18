@@ -1,29 +1,28 @@
-{
   "name": "Mini-Battleship",
   "description": "A small but powerful mini battleship with high damage.",
   "health": 5000,
   "speed": 1.2,
-  "damage": {
-    "laser": 700,
-    "cannon": 600
-  },
-  "weaponry": {
-    "primary": {
-      "type": "laser",
-      "rateOfFire": 2.5,
-      "damage": 400,
-      "range": 150
-    },
-    "secondary": {
-      "type": "cannon",
-      "rateOfFire": 1.0,
-      "damage": 600,
-      "range": 120
+armor: 30
+weapons: [
+    {
+        name: ship-weapon
+        top: false
+        x: 0
+        y: 2
+		
+	    mirror: false
+	    alternate: false
+        reload: 20
+        shootSound: "railgun"
+        bullet: {
+            type: BasicBulletType
+            damage: 35
+	        lifetime: 30
+	        speed: 3.5
+trailColor: EEEF00FF
+			
+			width: 5
+		    height: 5
+		}
     }
-  },
-  "size": {
-    "width": 2,
-    "height": 2
-  },
-  "armor": "heavy"
-}
+]
